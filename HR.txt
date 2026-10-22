@@ -1,0 +1,128 @@
+HR 
+
+In 5 years?
+In five years, I see myself as a skilled software professional who efficiently contribute to solving real business problems. 
+
+Initially, I want to build a strong foundation in software development, databases, testing, and working in a professional team. 
+
+I see myself growing with the organisation
+
+As I gain experience, I want to become someone my team can rely on.
+
+I also want to keep learning new technologies and upskilling. 
+
+For me, success would mean becoming genuinely good at my work and being able to contribute well.
+
+How will you contribute to the team 
+
+I would contribute by being reliable, communicating clearly, and taking ownership of the tasks assigned to me. 
+
+I would first make sure I understand the team’s goal and how my work fits into it. If I faced a blocker, I would try to investigate it independently and then ask focused questions rather than remain stuck silently.
+
+I would also be open to feedback and willing to help teammates when my own priorities allow it. 
+
+From my experience coordinating a college event with more than 150 attendees, I understand that teamwork depends on clear responsibilities, communication, and everyone following through on their commitments.
+
+If teammate isn’t doing their work 
+
+Solve the problem internally: speak to the teammate privately to understand if they are facing a problem or whether responsibilities are unclear. I would discuss and try to agree on a next step. 
+
+If the delay continued and affected the team’s delivery, I would communicate the issue to the team lead with facts rather than making it personal. My priority would be to resolve the issue and protect the team’s outcome, not blame someone.
+
+
+Leadership/teamwork
+1. Divide responsibilities 
+2. Communicate deadlines
+3. Follow up and track process by making to do lists 
+4. Update others 
+5. Listen to others ideas and perspectives
+6. Address issues professionally and formally, team vote
+7. Be open to feedback, helps team reach better results
+
+If a team member wants to take leadership 
+
+1. Yes
+2. Open to giving the leadership position 
+3. If my teammate is well suited for the role
+4. I believe leadership is about a team’s success not just holding a title 
+5. Team discussion regarding this before decision
+6. I will support the new leader
+7. Make sure we achieve our common goals 
+8. As leadership is about collaboration not ego
+
+How do u handle conflicts/disagreements
+
+1. Listen to everyones perspective, understand reason and approach 
+2. Discuss calmly rather than personally
+3. Compare options based on requirements and impact
+4. Make a pros and cons list
+5. Focus on finding a practical and optimal solution
+6. Team vote and mutual agreement, make sure everyone heard 
+
+ Faced failure 
+
+While writing a research paper, Our professor assigned us a topic based on a framework he had developed a few years earlier. When we tested it with machine learning, we found that the results were negative, partly because the approach was outdated.
+
+Initially, this was a setback because our expected outcome wasn’t achieved. Instead of trying to manipulate the results or ignore the problem, we decided to understand why it was happening. We then developed a framework to systematically evaluate the impact of such approaches and analyse why machine learning integration could produce negative results.
+
+The biggest lesson I learned was that failure is not always wasted effort. If you analyse it properly, it can help you understand the depth and even help build something more useful. 
+
+Stuck on a task near deadline
+1. Identify the root cause of the problem
+2. Break it into smaller parts 
+3. To do list in order to ensure I include all deliverables
+4. Check error messages, review the code, ai assisted scanning and debugging
+5. If issue could affect deadline, communicate it with my manager transparently 
+6. Goal to resolve the issue w/o compromising quality 
+
+Academic Projects
+I've worked on several academic projects during my B.Tech, mainly in the domains of artificial intelligence, machine learning, and cybersecurity.
+
+Some of these projects have also developed into research papers which are published
+
+One project I'd like to mention is FedCL-NIDS, which focuses on using machine learning (federated learning) to detect suspicious network activity while keeping data distributed across different systems.
+
+1. Dataset: CICIDS2017 network traffic dataset to train and evaluate. Benchmark dataset by reputed Canadian institute 
+2. Machine Learning: Used Random Forest (classification) (50 trees, maximum depth 10) and XGBoost learns by building decision trees one after another, Combines the contributions of the trees. Used as a comparison model to evaluate detection capabilities.
+3. Federated Learning: Simulated four clients: web server, database, email server, and file server, allowing collaboration without sharing raw network traffic among clients. In order to adhere with GDPR compliances . Flower library used 
+4. Security Technologies: Used Snort sniffs packets for finding known attack signatures and YARA for detection-rule generation. Rules required 3 out of 4 votes and a similarity threshold of 0.7 to become global rule.
+5. Results: The complete system achieved an average F1-score of 80.52%, improving on the non-federated baseline by 5.88 percentage points.
+
+It was a valuable experience because I got to understand how machine learning concepts can be applied to real-world cybersecurity problems.
+
+Relocation 
+- I am open to relocating as per the job requirements
+
+Salary expectations
+- As a fresher my priority is learning and gaining experience.
+
+TEAM WORK 
+
+
+Questions for the interviewer
+1. 
+
+- Programming languages u know: Python, SQL, HTML/CSS/JS, c++ c lang basics
+
+Worked as a team 
+- [ ] There have been many instances where I had to work as a part of a team such as hackathons, research projects and college clubs 
+- [ ] Most recently there was a research poster presentation competition at a conference which was held at my college 
+- [ ] There I worked in a team of 3 and I was the team leader 
+- [ ] We divided responsibilities and made a list of tasks to be completed by each member along with deadlines
+- [ ] We held daily meetings both online and offline where we brainstormed ideas, talked about any issues that we were facing and communicated
+- [ ] We also used GitHub for collaborative coding such that each member was updated with others work without manual resharing
+- [ ] Apart from our technical work, we also had to also prepare a poster displaying and explaining our work infront of many professional researchers and scholars
+- [ ] This experience was really valuable for me as it involved working on a technical solution as well as being responsible for its management and also presenting it infront of an audience 
+
+Why should we hire you ? 
+
+I believe you should hire me because I have the 
+- [ ] technical skills required for this role,
+- [ ] experience across multiple domains, of computer science including web development, AI-based development, software engineering, and MLOps and DevOps practices. 
+- [ ] helped me develop strong problem-solving skills and understand how different technologies work together 
+- [ ] I am also adaptable, 
+- [ ] quick learner, 
+- [ ] comfortable working in a team. 
+- [ ] As a fresher, I am eager to apply my existing skills, learn from experienced professionals, and contribute to Accenture’s projects while continuously improving myself.
+
+My least favourite subject was Automata Theory. I understand its importance in computer science, especially in understanding how languages are processed, but I found it relatively abstract and mathematical compared to subjects where I could build practical applications. I personally enjoy learning through implementation, which is why I find AI and software development more engaging. However, the subject helped me develop logical thinking and understand the theoretical foundations of computing.
